@@ -5797,23 +5797,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\.nuget\\packages\\": {},
+    "C:\\Users\\migue\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\Documents\\Proyectos\\PIA Back\\Videolibrary BackEnd\\Videolibrary CRUD\\Videolibrary CRUD.csproj",
+      "projectUniqueName": "C:\\Users\\migue\\OneDrive\\Escritorio\\Proyecto Back\\VideolibraryCRUD\\Videolibrary BackEnd\\Videolibrary CRUD\\Videolibrary CRUD.csproj",
       "projectName": "Videolibrary CRUD",
-      "projectPath": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\Documents\\Proyectos\\PIA Back\\Videolibrary BackEnd\\Videolibrary CRUD\\Videolibrary CRUD.csproj",
-      "packagesPath": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\Documents\\Proyectos\\PIA Back\\Videolibrary BackEnd\\Videolibrary CRUD\\obj\\",
+      "projectPath": "C:\\Users\\migue\\OneDrive\\Escritorio\\Proyecto Back\\VideolibraryCRUD\\Videolibrary BackEnd\\Videolibrary CRUD\\Videolibrary CRUD.csproj",
+      "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\migue\\OneDrive\\Escritorio\\Proyecto Back\\VideolibraryCRUD\\Videolibrary BackEnd\\Videolibrary CRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Humberto Peña.DESKTOP-IHI5EUT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
