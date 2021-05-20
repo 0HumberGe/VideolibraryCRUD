@@ -10,7 +10,7 @@ Humberto Gerardo Peña Páez
 Miguel Alejandro Rodríguez Rocha
 
 ## Esquema
-![img](https://github.com/Maiikrdz/VideolibraryCRUD/blob/img/esquema.jpeg)
+![img](https://github.com/Maiikrdz/VideolibraryCRUD/tree/main/img/esquema.jpeg)
 
 ## Endpoint GET
 
