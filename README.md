@@ -1,13 +1,14 @@
 # PIA Backend
 
-Integrantes del equipo:
+## Integrantes del equipo:
 
 Ricardo López Novelo
-
 
 Humberto Gerardo Peña Páez
 
 Miguel Alejandro Rodríguez Rocha
+
+# Manual técnico
 
 ## Esquema
 <img src="./img/esquema.jpeg">
@@ -24,7 +25,7 @@ Request body:
 
 No aplica
 
-### Pruebas en postman
+<img src="./img/get.jpeg">
 
 ## Endpoint POST
 
@@ -44,7 +45,7 @@ Request body:
   "rating": "string"
 }
 
-### Pruebas en postman
+<img src="./img/post.jpeg">
 
 ## Endpoint PUT
 Método PUT
@@ -63,7 +64,9 @@ Request body:
   "rating": "string"
 }
 
-### Pruebas en postman
+<img src="./img/put.jpeg">
+
+## Endpoint DELETE
 Método DELETE
 
 DELETE/api/Movie/{id}
@@ -74,4 +77,4 @@ Request body:
 
 No aplica
 
-### Pruebas en postman
+<img src="./img/delete.jpeg">
